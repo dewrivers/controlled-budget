@@ -4,15 +4,15 @@
 ## Description
 
 The Controlled Budget app is an app that let us to have track on our butget.
-The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+The user will be able to add expenses and deposits to their budget _with or without a connection_. When entering transactions offline, they should populate the total when brought back online.
 
-Offline Functionality:
+**Offline Functionality:**
 
   * Enter deposits offline
 
   * Enter expenses offline
 
-When brought back online:
+**When brought back online:**
 
   * Offline entries should be added to tracker.
 _ _ _
